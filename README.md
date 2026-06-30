@@ -1,5 +1,27 @@
 # OLA-Data-Analyst-Project
 
+<h2> Power BI Dashboard Preview</h2>
+
+<p align="center">
+  <img src="./OLA%20Dashboard_page-0001.jpg" width="900">
+</p>
+
+<p align="center">
+  <img src="./OLA%20Dashboard_page-0002.jpg" width="900">
+</p>
+
+<p align="center">
+  <img src="./OLA%20Dashboard_page-0003.jpg" width="900">
+</p>
+
+<p align="center">
+  <img src="./OLA%20Dashboard_page-0004.jpg" width="900">
+</p>
+
+<p align="center">
+  <img src="./OLA%20Dashboard_page-0005.jpg" width="900">
+</p>
+
 ## SQL Questions:
 1. Retrieve all successful bookings:
 2. Find the average ride distance for each vehicle type:
@@ -44,6 +66,7 @@
 17. Ride_Distance
 18. Driver_Ratings
 19. Customer_Rating
+
 
 ## 🗄️ SQL Analysis Queries
 
